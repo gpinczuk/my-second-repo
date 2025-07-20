@@ -1,24 +1,26 @@
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poetâ€™s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-- This is
-- an unordered
-- list
-1. This is
-2. an ordered
-3. list
-Here is `some code` in the middle of a sentence.
-```
-This is
-a block
-of code
-```
-Here is how you make [a link](https://www.wikiped\
-ia.org/).
-![This is an image.](https://github.com/yihui/xar\
-ingan/releases/download/v0.0.2/karl-moustache.jpg\
-)
+# Guillermo Pinczuk
+
+### Geography
+
+I live in the city of Bethesda, in the state of Maryland, in the 
+United States of America
+
+### Reading
+
+Some of my favorite books are:
+
+- 1984 by George Orwell
+- Guns, Germs and Steel by Jared Diamond
+- Conquests and Cultures by Thomas Sowell
+
+### Food
+
+I enjoy the following cuisines:
+
+1.  Persian
+2.  Indian
+3.  Middle Eastern
+4.  Greek
+5.  Vietnamese
+
 
